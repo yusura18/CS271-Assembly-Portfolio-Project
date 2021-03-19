@@ -1,2 +1,0 @@
-C:\CS271\Project6\Debug\Project.exe
-C:\CS271\Project6\Debug\Project.pdb
